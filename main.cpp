@@ -2,10 +2,12 @@
 #include <cmath>
 using namespace std;
 
-class Circle
+class MyCar
 {
 protected:
-	
+	double horsepower;
+	string type;
+	string color;
 public:
 	
 };
